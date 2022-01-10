@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+.btn{
+    font-size: 14px !important;
+}
+#myNavbar input[type="radio"] {
+    display: none !important;
+    /* visibility: hidden !important; */
+    /* opacity: 0 !important */
+}
+.myNavbarItems{
+    cursor: pointer;
+}
+.graduate-logo{
+    font-size: 5.5rem 
+}
+#custom_button {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    box-shadow: none !important;
+    outline: none !important;
+  width: 720px;
+  }
+
+.testingC{
+    /* width: fit-content !important;  */
+    background-color: black;
+}
+.wot{
+   max-height: 1;
+    
+}
